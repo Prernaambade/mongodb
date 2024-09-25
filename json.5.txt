@@ -1,0 +1,6 @@
+/**
+ * Provide any number of field/order pairs.
+ */
+{
+  sales: -1
+}

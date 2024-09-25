@@ -1,0 +1,9 @@
+/**
+ * query: The query in MQL.
+ */
+{
+  ship_mode: {
+    $regex: "^Se",
+    $options: "i"
+  }
+}

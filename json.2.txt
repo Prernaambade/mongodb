@@ -1,0 +1,9 @@
+/**
+ * query: The query in MQL.
+ */
+{
+  sales: {
+    $gt: 2000
+  },
+  ship_mode: "First Class"
+}

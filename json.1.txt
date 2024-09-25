@@ -1,0 +1,8 @@
+/**
+ * query: The query in MQL.
+ */
+{
+  quantity: {
+    $gt: 10
+  }
+}

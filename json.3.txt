@@ -1,0 +1,15 @@
+/**
+ * query: The query in MQL.
+ */
+{
+  $or: [
+    {
+      sales: {
+        $gt: 5000
+      }
+    },
+    {
+      ship_mode: "First Class"
+    }
+  ]
+}
